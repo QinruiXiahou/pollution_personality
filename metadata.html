@@ -1,0 +1,234 @@
+<html>
+<head>
+<meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+<style>
+html, body { background-color: white; }
+table { border-collapse:collapse; border:none; }
+.thead { border-bottom:double; font-style:italic; font-weight:normal; padding:0.2cm; text-align:left; vertical-align:top; }
+.tdata { padding:0.2cm; text-align:left; vertical-align:top; }
+.arc { background-color:#eeeeee }
+caption { font-weight: bold; text-align:left; }
+.omit { color:#999999; }
+</style>
+</head>
+<body>
+<table>
+<caption>Data frame: lead_density_NA_newadj</caption>
+<tr>
+<th class="thead">ID</th><th class="thead">Name</th><th class="thead">Type</th><th class="thead">Label</th><th class="thead">Values</th><th class="thead">Value Labels</th>
+</tr>
+<tr>
+<td class="tdata">1</td>
+<td class="tdata">year</td>
+<td class="tdata">numeric</td>
+<td class="tdata">Year</td>
+<td class="tdata" colspan="2"><em>range: 1969-1981</em></td>
+</tr>
+<tr>
+<td class="tdata arc">2</td>
+<td class="tdata arc">geoid</td>
+<td class="tdata arc">character</td>
+<td class="tdata arc">Five-digit FIPS code</td>
+<td class="tdata arc"></td>
+<td class="tdata arc">01055<br>01073<br>01089<br>01097<br>01101<br><span class="omit">&lt;... truncated&gt;</span></td>
+</tr>
+<tr>
+<td class="tdata">3</td>
+<td class="tdata">state</td>
+<td class="tdata">character</td>
+<td class="tdata">State name</td>
+<td class="tdata"></td>
+<td class="tdata">Alabama<br>Arizona<br>Arkansas<br>California<br>Colorado<br><span class="omit">&lt;... truncated&gt;</span></td>
+</tr>
+<tr>
+<td class="tdata arc">4</td>
+<td class="tdata arc">stateabbr</td>
+<td class="tdata arc">character</td>
+<td class="tdata arc">Two-letter state abbreviation</td>
+<td class="tdata arc"></td>
+<td class="tdata arc">AL<br>AR<br>AZ<br>CA<br>CO<br><span class="omit">&lt;... truncated&gt;</span></td>
+</tr>
+<tr>
+<td class="tdata">5</td>
+<td class="tdata">fips_state</td>
+<td class="tdata">numeric</td>
+<td class="tdata">State FIPS code</td>
+<td class="tdata" colspan="2"><em>range: 1-56</em></td>
+</tr>
+<tr>
+<td class="tdata arc">6</td>
+<td class="tdata arc">county</td>
+<td class="tdata arc">character</td>
+<td class="tdata arc">County name</td>
+<td class="tdata arc"></td>
+<td class="tdata arc">Ada<br>Adams<br>Aiken<br>Alameda<br>Albany<br><span class="omit">&lt;... truncated&gt;</span></td>
+</tr>
+<tr>
+<td class="tdata">7</td>
+<td class="tdata">fips_cnty</td>
+<td class="tdata">numeric</td>
+<td class="tdata">County FIPS code</td>
+<td class="tdata" colspan="2"><em>range: 1-760</em></td>
+</tr>
+<tr>
+<td class="tdata arc">8</td>
+<td class="tdata arc">aqcr_num</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Air Quality Control Region (AQCR)</td>
+<td class="tdata arc" colspan="2"><em>range: 2-242</em></td>
+</tr>
+<tr>
+<td class="tdata">9</td>
+<td class="tdata">flag</td>
+<td class="tdata">character</td>
+<td class="tdata">Whether the county is from Isen et al., PNAS, or<br>both</td>
+<td class="tdata"></td>
+<td class="tdata">Both<br>Isen<br>PNAS</td>
+</tr>
+<tr>
+<td class="tdata arc">10</td>
+<td class="tdata arc">lead_cnty</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Annual lead emissions in the county (kg)</td>
+<td class="tdata arc" colspan="2"><em>range: 327.4-6888652.3</em></td>
+</tr>
+<tr>
+<td class="tdata">11</td>
+<td class="tdata">lead_den_cnty</td>
+<td class="tdata">numeric</td>
+<td class="tdata">Annual lead density in the county (kg/sqmi)</td>
+<td class="tdata" colspan="2"><em>range: 0.3-29991.6</em></td>
+</tr>
+<tr>
+<td class="tdata arc">12</td>
+<td class="tdata arc">lead_den_cnty_km</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Annual lead density in the county (mg/m^2)</td>
+<td class="tdata arc" colspan="2"><em>range: 0.1-11579.8</em></td>
+</tr>
+<tr>
+<td class="tdata">13</td>
+<td class="tdata">NA1972</td>
+<td class="tdata">character</td>
+<td class="tdata">Non-attainment status assigned by EPA</td>
+<td class="tdata"></td>
+<td class="tdata">Attainment<br>Primary nonattainment<br>Secondary nonattainment</td>
+</tr>
+<tr>
+<td class="tdata arc">14</td>
+<td class="tdata arc">isenNA</td>
+<td class="tdata arc">categorical</td>
+<td class="tdata arc">Non-attainment status estimated by Isen et al.</td>
+<td class="tdata arc"></td>
+<td class="tdata arc">0<br>1</td>
+</tr>
+<tr>
+<td class="tdata">15</td>
+<td class="tdata">predNA</td>
+<td class="tdata">categorical</td>
+<td class="tdata">Non-attainment status estimated by Joshua Murphy</td>
+<td class="tdata"></td>
+<td class="tdata">0<br>1</td>
+</tr>
+<tr>
+<td class="tdata arc">16</td>
+<td class="tdata arc">pop_county</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">County population</td>
+<td class="tdata arc" colspan="2"><em>range: 824-7608792</em></td>
+</tr>
+<tr>
+<td class="tdata">17</td>
+<td class="tdata">pop_aqcr</td>
+<td class="tdata">numeric</td>
+<td class="tdata">AQCR population</td>
+<td class="tdata" colspan="2"><em>range: 24195-12091755</em></td>
+</tr>
+<tr>
+<td class="tdata arc">18</td>
+<td class="tdata arc">area_chg</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Change of urban area between 1970 and 1980</td>
+<td class="tdata arc" colspan="2"><em>range: -0.2-2.3</em></td>
+</tr>
+<tr>
+<td class="tdata">19</td>
+<td class="tdata">smelter</td>
+<td class="tdata">categorical</td>
+<td class="tdata">Whether there are smelters within the county</td>
+<td class="tdata"></td>
+<td class="tdata">0<br>1</td>
+</tr>
+<tr>
+<td class="tdata arc">20</td>
+<td class="tdata arc">pop_den</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Unweighted urban population density in the county <br> (For counties without an urban core, it equals<br>the county population density)</td>
+<td class="tdata arc" colspan="2"><em>range: 0.9-67260.4</em></td>
+</tr>
+<tr>
+<td class="tdata">21</td>
+<td class="tdata">pop_maxden</td>
+<td class="tdata">numeric</td>
+<td class="tdata">Maximum urban population density in the county 
+<br>(For counties without an urban core, it equals the<br>county population density)</td>
+<td class="tdata" colspan="2"><em>range: 0.9-67260.4</em></td>
+</tr>
+<tr>
+<td class="tdata arc">22</td>
+<td class="tdata arc">pop_wden</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Population-weighted urban population density in<br>the county 
+ (For counties without an urban core,<br>it equals the county population density)</td>
+<td class="tdata arc" colspan="2"><em>range: 0.9-67260.4</em></td>
+</tr>
+<tr>
+<td class="tdata">23</td>
+<td class="tdata">dcity</td>
+<td class="tdata">categorical</td>
+<td class="tdata">Whether the county has an urban core</td>
+<td class="tdata"></td>
+<td class="tdata">0<br>1</td>
+</tr>
+<tr>
+<td class="tdata arc">24</td>
+<td class="tdata arc">lead_pc_aqcr</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">AQCR-level per capita lead emissions</td>
+<td class="tdata arc" colspan="2"><em>range: 0.1-3.9</em></td>
+</tr>
+<tr>
+<td class="tdata">25</td>
+<td class="tdata">lead_den_adj</td>
+<td class="tdata">numeric</td>
+<td class="tdata">Urban-core adjusted annual lead density in the<br>county (kg/sqmi) 
+ (Adjustments based on average<br>urban population density)</td>
+<td class="tdata" colspan="2"><em>range: 0.3-29991.6</em></td>
+</tr>
+<tr>
+<td class="tdata arc">26</td>
+<td class="tdata arc">lead_maxden_adj</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Urban-core-adjusted annual lead density in the<br>county (kg/sqmi) 
+ (Adjustments based on maximum<br>urban population density)</td>
+<td class="tdata arc" colspan="2"><em>range: 0.3-29991.6</em></td>
+</tr>
+<tr>
+<td class="tdata">27</td>
+<td class="tdata">lead_wden_adj</td>
+<td class="tdata">numeric</td>
+<td class="tdata">Urban-core-adjusted annual lead density in the<br>county (kg/sqmi) 
+ (Adjustments based on<br>population-weighted urban population density)</td>
+<td class="tdata" colspan="2"><em>range: 0.3-29991.6</em></td>
+</tr>
+<tr>
+<td class="tdata arc">28</td>
+<td class="tdata arc">lead_wden_adj_km</td>
+<td class="tdata arc">numeric</td>
+<td class="tdata arc">Urban-core-adjusted annual lead density in the<br>county (mg/m^2) 
+ (Adjustments based on<br>population-weighted urban population density)</td>
+<td class="tdata arc" colspan="2"><em>range: 0.1-11579.8</em></td>
+</tr>
+
+</table>
+</body></html>
