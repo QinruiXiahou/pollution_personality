@@ -1,0 +1,314 @@
+county,state,aqcr_num,flag,new,isen_dataset,district
+Montgomery,Alabama,2,PNAS,3,3,3
+Etowah,Alabama,3,PNAS,3,,3
+Jefferson,Alabama,4,PNAS,3,,3
+Mobile,Alabama,5,PNAS,3,,3
+Madison,Alabama,7,PNAS,3,,3
+Anchorage,Alaska,8,PNAS,,,
+Fairbanks North Star,Alaska,9,PNAS,,,
+Cochise,Arizona,12,PNAS,13,,13
+Greenlee,Arizona,12,PNAS,13,,13
+Mohave,Arizona,13,PNAS,13,13,13
+Yuma,Arizona,13,PNAS,13,13,13
+Navajo,Arizona,14,PNAS,13,13,13
+Yavapai,Arizona,14,PNAS,13,13,13
+Gila,Arizona,15,PNAS,13,,13
+Maricopa,Arizona,15,PNAS,13,,13
+Pima,Arizona,15,PNAS,13,,13
+Pinal,Arizona,15,PNAS,13,,13
+Pulaski,Arkansas,16,PNAS,8,,8
+Montgomery,Arkansas,21,PNAS,11,,11
+Miller,Arkansas,22,PNAS,,11,11
+Los Angeles,California,24,Both,,17,17
+Orange,California,24,Both,,17,17
+Riverside,California,24,Both,,17,17
+San Bernardino,California,24,Both,,17,17
+Santa Barbara,California,24,Isen,,17,17
+Monterey,California,25,Both,,16,16
+Humboldt,California,26,Isen,,16,16
+Sacramento,California,28,Both,,16,16
+San Diego,California,29,Both,,17,17
+Alameda,California,30,Both,,16,16
+San Francisco,California,30,Both,,16,16
+Santa Clara,California,30,PNAS,16,16,16
+Fresno,California,31,Both,,16,16
+Kern,California,31,PNAS,16,16,16
+Montezuma,Colorado,14,Both,13,13,13
+La Plata,Colorado,14,Isen,13,13,13
+Otero,Colorado,34,Isen,13,13,13
+Garfield,Colorado,35,Both,13,13,13
+Mesa,Colorado,35,Both,13,13,13
+Montrose,Colorado,35,Isen,13,13,13
+Adams,Colorado,36,Both,13,13,13
+Arapahoe,Colorado,36,Both,13,13,13
+Denver,Colorado,36,Both,13,13,13
+Jefferson,Colorado,36,Both,13,13,13
+Boulder,Colorado,36,Isen,13,13,13
+Douglas,Colorado,36,Isen,13,13,13
+Larimer,Colorado,37,Both,13,13,13
+Logan,Colorado,37,Isen,13,13,13
+Weld,Colorado,37,Isen,13,13,13
+El Paso,Colorado,38,Both,13,13,13
+Las Animas,Colorado,38,Both,13,13,13
+Pueblo,Colorado,38,Both,13,13,13
+Fremont,Colorado,38,Isen,13,13,13
+Routt,Colorado,40,PNAS,13,,13
+Middlesex,Connecticut,41,PNAS,2,,2
+New London,Connecticut,41,PNAS,2,,2
+Tolland,Connecticut,41,PNAS,2,,2
+Windham,Connecticut,41,PNAS,2,,2
+Fairfield,Connecticut,42,PNAS,2,,2
+Hartford,Connecticut,42,PNAS,2,,2
+Litchfield,Connecticut,42,PNAS,2,,2
+New Haven,Connecticut,42,PNAS,2,,2
+New Castle,Delaware,45,PNAS,2,2,2
+Kent,Delaware,46,PNAS,2,,2
+District of Columbia,District of Columbia,47,PNAS,2,2,2
+Brevard,Florida,48,Isen,3,3,3
+Duval,Florida,49,Both,3,3,3
+Palm Beach,Florida,50,Isen,3,3,3
+Miami-Dade,Florida,50,PNAS,3,3,3
+Hillsborough,Florida,52,Both,3,3,3
+Pinellas,Florida,52,Both,3,3,3
+Manatee,Florida,52,Isen,3,3,3
+Muscogee,Georgia,2,Both,3,3,3
+Bibb,Georgia,54,PNAS,3,,3
+Walker,Georgia,55,Isen,3,3,3
+Fulton,Georgia,56,Both,3,3,3
+Chatham,Georgia,58,Both,3,3,3
+Honolulu,Hawaii,60,PNAS,,,
+Bannock,Idaho,61,Both,14,14,14
+Butte,Idaho,61,PNAS,14,14,14
+Kootenai,Idaho,62,PNAS,14,14,14
+Nez Perce,Idaho,62,PNAS,14,14,14
+Shoshone,Idaho,62,PNAS,14,14,14
+Twin Falls,Idaho,63,Isen,14,14,14
+Ada,Idaho,64,Both,14,14,14
+Peoria,Illinois,65,Both,,6,6
+Cook,Illinois,67,Both,,6,6
+Lake,Illinois,67,Both,,6,6
+Will,Illinois,67,Both,,6,6
+Rock Island,Illinois,69,Both,,6,6
+St. Clair,Illinois,70,PNAS,7,,7
+Winnebago,Illinois,73,PNAS,6,,6
+Sangamon,Illinois,75,Both,,7,7
+Lake,Indiana,67,Both,,6,6
+Porter,Indiana,67,Isen,,6,6
+Delaware,Indiana,76,PNAS,7,,7
+Vanderburgh,Indiana,77,Both,,7,7
+Floyd,Indiana,78,PNAS,7,,7
+Marion,Indiana,80,Both,,7,7
+Allen,Indiana,81,Both,,6,6
+St. Joseph,Indiana,82,Both,,6,6
+Elkhart,Indiana,82,Isen,,6,6
+Monroe,Indiana,83,Both,,7,7
+Vigo,Indiana,84,Both,,7,7
+Parke,Indiana,84,PNAS,7,7,7
+Dubuque,Iowa,68,PNAS,6,,6
+Scott,Iowa,69,PNAS,6,6,6
+Linn,Iowa,88,PNAS,6,,6
+Polk,Iowa,92,PNAS,10,,10
+Wyandotte,Kansas,94,PNAS,10,,10
+Shawnee,Kansas,95,PNAS,10,,10
+Sedgwick,Kansas,99,PNAS,11,,11
+Jefferson,Kentucky,78,PNAS,7,,7
+Kenton,Kentucky,79,PNAS,4,,4
+Fayette,Kentucky,102,PNAS,4,,4
+Boyd,Kentucky,103,PNAS,4,,4
+Warren,Kentucky,105,PNAS,7,,7
+Caddo,Louisiana,22,Both,12,12,12
+East Baton Rouge,Louisiana,106,Both,8,8,8
+Orleans,Louisiana,106,Both,8,8,8
+Hancock,Maine,109,Both,1,1,1
+Cumberland,Maine,110,PNAS,1,,1
+Prince George's,Maryland,47,Isen,,2,2
+Baltimore (City),Maryland,115,Both,,2,2
+Calvert,Maryland,116,PNAS,2,,2
+Hampden,Massachusetts,42,PNAS,1,,1
+Worcester,Massachusetts,118,PNAS,1,,1
+Middlesex,Massachusetts,119,PNAS,1,,1
+Suffolk,Massachusetts,119,PNAS,1,,1
+Bristol,Massachusetts,120,PNAS,1,1,1
+Genesee,Michigan,122,PNAS,5,,5
+Kent,Michigan,122,PNAS,5,,5
+Saginaw,Michigan,122,PNAS,5,,5
+Wayne,Michigan,123,PNAS,5,,5
+Ingham,Michigan,125,PNAS,5,,5
+Olmsted,Minnesota,128,PNAS,9,9,9
+St. Louis,Minnesota,129,PNAS,9,9,9
+Dakota,Minnesota,131,PNAS,9,,9
+Hennepin,Minnesota,131,PNAS,9,,9
+Ramsey,Minnesota,131,PNAS,9,,9
+Hinds,Mississippi,5,PNAS,8,,8
+Jackson,Mississippi,5,PNAS,8,,8
+St. Louis,Missouri,70,PNAS,7,,7
+Jackson,Missouri,94,PNAS,10,,10
+Shannon,Missouri,139,PNAS,7,,7
+Glacier,Montana,141,Both,14,14,14
+Cascade,Montana,141,PNAS,14,14,14
+Lewis and Clark,Montana,142,Both,14,14,14
+Deer Lodge,Montana,142,PNAS,14,14,14
+Jefferson,Montana,142,PNAS,14,14,14
+Silver Bow,Montana,142,PNAS,14,14,14
+Douglas,Nebraska,85,PNAS,10,,10
+Lancaster,Nebraska,145,PNAS,10,,10
+Thomas,Nebraska,146,PNAS,10,,10
+Clark,Nevada,13,Both,17,17,17
+White Pine,Nevada,147,Both,13,13,13
+Washoe,Nevada,148,Both,16,16,16
+Coos,New Hampshire,107,PNAS,1,,1
+Merrimack,New Hampshire,121,PNAS,1,,1
+Essex,New Jersey,43,Both,,2,2
+Hudson,New Jersey,43,Both,,2,2
+Middlesex,New Jersey,43,Both,,2,2
+Passaic,New Jersey,43,Both,,2,2
+Union,New Jersey,43,Both,,2,2
+Bergen,New Jersey,43,Isen,,2,2
+Monmouth,New Jersey,43,Isen,,2,2
+Morris,New Jersey,43,Isen,,2,2
+Somerset,New Jersey,43,Isen,,2,2
+Camden,New Jersey,45,Both,,2,2
+Gloucester,New Jersey,45,Both,,2,2
+Mercer,New Jersey,45,Both,,2,2
+Bernalillo,New Mexico,152,Both,13,13,13
+New York,New York,43,PNAS,2,2,2
+Westchester,New York,43,PNAS,2,2,2
+Jefferson,New York,158,PNAS,2,,2
+Oneida,New York,158,PNAS,2,,2
+Onondaga,New York,158,PNAS,2,,2
+Monroe,New York,160,PNAS,4,,4
+Albany,New York,161,PNAS,2,,2
+Erie,New York,162,PNAS,4,,4
+Niagara,New York,162,PNAS,4,,4
+Forsyth,North Carolina,136,Both,3,3,3
+Guilford,North Carolina,136,Both,3,3,3
+Durham,North Carolina,166,Both,3,3,3
+Mecklenburg,North Carolina,167,Both,3,3,3
+Burleigh,North Dakota,172,PNAS,9,,9
+Hamilton,Ohio,79,PNAS,4,,4
+Lucas,Ohio,124,PNAS,4,,4
+Montgomery,Ohio,173,PNAS,4,,4
+Cuyahoga,Ohio,174,PNAS,4,,4
+Stark,Ohio,174,PNAS,4,,4
+Summit,Ohio,174,PNAS,4,,4
+Franklin,Ohio,176,PNAS,4,,4
+Mahoning,Ohio,178,PNAS,4,,4
+Jefferson,Ohio,181,PNAS,4,,4
+Oklahoma,Oklahoma,184,PNAS,11,,11
+Mayes,Oklahoma,186,PNAS,11,,11
+Tulsa,Oklahoma,186,PNAS,11,,11
+Klamath,Oregon,190,Isen,,15,15
+Multnomah,Oregon,193,Both,,15,15
+Clackamas,Oregon,193,Isen,,15,15
+Lane,Oregon,193,Isen,,15,15
+Marion,Oregon,193,Isen,,15,15
+Curry,Oregon,194,Both,,15,15
+Jackson,Oregon,194,Both,,15,15
+Coos,Oregon,194,Isen,,15,15
+Douglas,Oregon,194,Isen,,15,15
+Bucks,Pennsylvania,45,PNAS,2,2,2
+Chester,Pennsylvania,45,PNAS,2,2,2
+Philadelphia,Pennsylvania,45,PNAS,2,2,2
+Berks,Pennsylvania,151,PNAS,2,,2
+Lackawanna,Pennsylvania,151,PNAS,2,,2
+Lehigh,Pennsylvania,151,PNAS,2,,2
+Luzerne,Pennsylvania,151,PNAS,2,,2
+Northampton,Pennsylvania,151,PNAS,2,,2
+Clarion,Pennsylvania,178,PNAS,4,,4
+Erie,Pennsylvania,178,PNAS,4,,4
+Blair,Pennsylvania,195,PNAS,4,,4
+Cambria,Pennsylvania,195,PNAS,4,,4
+Dauphin,Pennsylvania,196,PNAS,2,,2
+Lancaster,Pennsylvania,196,PNAS,2,,2
+York,Pennsylvania,196,PNAS,2,,2
+Allegheny,Pennsylvania,197,PNAS,4,,4
+Indiana,Pennsylvania,197,PNAS,4,,4
+Cata<f1>o,Puerto Rico,,PNAS,,,
+Guayanilla,Puerto Rico,,PNAS,,,
+Ponce,Puerto Rico,,PNAS,,,
+San Juan,Puerto Rico,,PNAS,,,
+Providence,Rhode Island,120,Both,2,2,2
+Washington,Rhode Island,120,Both,2,2,2
+Aiken,South Carolina,53,Isen,3,3,3
+Lancaster,South Carolina,167,Isen,3,3,3
+York,South Carolina,167,Isen,3,3,3
+Charleston,South Carolina,199,Both,3,3,3
+Richland,South Carolina,200,Both,3,3,3
+Florence,South Carolina,201,Isen,3,3,3
+Greenville,South Carolina,202,Both,3,3,3
+Spartanburg,South Carolina,202,Isen,3,3,3
+Greenwood,South Carolina,203,Isen,3,3,3
+Georgetown,South Carolina,204,Isen,3,3,3
+Minnehaha,South Dakota,87,PNAS,9,,9
+Custer,South Dakota,205,PNAS,9,,9
+Shelby,Tennessee,18,Both,,8,8
+Hamilton,Tennessee,55,Both,,3,3
+Knox,Tennessee,207,Both,,3,3
+Davidson,Tennessee,208,Both,,8,8
+Bowie,Texas,22,Both,,12,12
+Smith,Texas,22,Both,,12,12
+Jefferson,Texas,106,Both,,8,8
+Orange,Texas,106,Both,,8,8
+El Paso,Texas,153,Both,,13,13
+Wichita,Texas,210,Both,11,11,11
+Brown,Texas,210,PNAS,11,11,11
+Taylor,Texas,210,PNAS,11,11,11
+Lubbock,Texas,211,Both,,13,13
+Potter,Texas,211,PNAS,13,13,13
+Travis,Texas,212,Both,,12,12
+Hays,Texas,212,PNAS,12,12,12
+McLennan,Texas,212,PNAS,12,12,12
+Cameron,Texas,213,Both,,12,12
+Hidalgo,Texas,213,Both,,12,12
+Webb,Texas,213,PNAS,12,12,12
+Nueces,Texas,214,Both,,12,12
+Dallas,Texas,215,Both,,11,11
+Tarrant,Texas,215,Both,,11,11
+Denton,Texas,215,PNAS,11,11,11
+Grayson,Texas,215,PNAS,11,11,11
+Brazoria,Texas,216,Both,,12,12
+Galveston,Texas,216,Both,,12,12
+Harris,Texas,216,Both,,12,12
+Chambers,Texas,216,PNAS,12,12,12
+Matagorda,Texas,216,PNAS,12,12,12
+Bexar,Texas,217,Both,,12,12
+Ector,Texas,218,PNAS,13,,13
+Howard,Texas,218,PNAS,13,,13
+Midland,Texas,218,PNAS,13,,13
+Tom Green,Texas,218,PNAS,13,,13
+Salt Lake,Utah,220,PNAS,13,,13
+Weber,Utah,220,PNAS,13,,13
+Chittenden,Vermont,159,PNAS,1,,1
+Orange,Vermont,221,PNAS,1,,1
+Fairfax,Virginia,47,Both,2,2,2
+Alexandria City,Virginia,47,Isen,2,2,2
+Fairfax City,Virginia,47,Isen,2,2,2
+Falls Church City,Virginia,47,Isen,2,2,2
+Wythe,Virginia,207,Isen,2,2,2
+Lynchburg,Virginia,222,PNAS,2,,2
+Newport News City,Virginia,223,Both,2,2,2
+Portsmouth City,Virginia,223,Both,2,2,2
+Hampton,Virginia,223,PNAS,2,2,2
+Norfolk,Virginia,223,PNAS,2,2,2
+Richmond City,Virginia,225,Both,2,2,2
+Hopewell City,Virginia,225,Isen,2,2,2
+Prince George,Virginia,225,Isen,2,2,2
+Page,Virginia,226,PNAS,2,,2
+Roanoke,Virginia,226,PNAS,2,,2
+Spokane,Washington,62,Both,,14,14
+Clark,Washington,193,Isen,,15,15
+King,Washington,229,Both,,15,15
+Pierce,Washington,229,Both,,15,15
+Snohomish,Washington,229,Isen,,15,15
+Cabell,West Virginia,103,PNAS,4,,4
+Hancock,West Virginia,181,PNAS,4,,4
+Kanawha,West Virginia,234,Both,,4,4
+Eau Claire,Wisconsin,128,Both,6,6,6
+Douglas,Wisconsin,129,Isen,6,6,6
+Door,Wisconsin,237,PNAS,6,,6
+Kenosha,Wisconsin,239,Both,6,6,6
+Milwaukee,Wisconsin,239,Both,6,6,6
+Racine,Wisconsin,239,Both,6,6,6
+Dane,Wisconsin,240,Both,6,6,6
+Natrona,Wyoming,241,PNAS,14,,14
+Laramie,Wyoming,242,PNAS,14,,14
